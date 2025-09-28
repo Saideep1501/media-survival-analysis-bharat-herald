@@ -58,9 +58,9 @@ Analyze operational and financial decline between 2019–2024, identify high-pot
 
 ---
 
-## 📊 Power BI Dashboard
+## 📊 Live Power BI Dashboard
 
-🔗 [View the Interactive Power BI Dashboard]([https://app.powerbi.com/groups/me/reports/YOUR-REPORT-ID-HERE](https://app.powerbi.com/view?r=eyJrIjoiNGRkMTEyODQtMjQ4ZC00YzU2LTkzM2QtZDIyNTRiYTRhMjQ4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))  
+🔗 [View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGRkMTEyODQtMjQ4ZC00YzU2LTkzM2QtZDIyNTRiYTRhMjQ4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
